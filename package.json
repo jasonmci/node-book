@@ -2,7 +2,7 @@
   "name": "book",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/jasonmci/node-book/issues"
   },
-  "homepage": "https://github.com/jasonmci/node-book#readme"
+  "homepage": "https://github.com/jasonmci/node-book#readme",
+  "dependencies": {
+    "eslint": "^4.18.1"
+  }
 }
+
+
